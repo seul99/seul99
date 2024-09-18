@@ -1,6 +1,6 @@
 ## print("`Hello World 👋`")
 
-Hello! I'm a beginner creative planner and developer, <br>
+Hello! I'm a beginner planner and developer, <br>
 and I plan to upload my study progress here. Looking forward to working together!
 <!-- 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/백준닉네임)
