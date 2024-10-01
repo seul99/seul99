@@ -1,7 +1,7 @@
 ## print("`Hello World 👋`")
-<div dlign = "center">
+<div align = "center">
   Hi, I'm a novice web developer. <br>
-  I'm in my third year of college. (Class of 2026) <br>
+  I'm a junior at university and My major is HCI Science. (Class of 2026) <br>
   I'm trying various projects by myself. <br>
   I want to work on a project together! <br>
 </div>
