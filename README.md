@@ -1,7 +1,10 @@
 ## print("`Hello World 👋`")
-
-Hello! I'm a beginner Webdeveloper, <br>
-and I plan to upload my study progress here. Looking forward to working together!
+<div dlign = "center">
+  Hi, I'm a novice web developer. <br>
+  I'm in my third year of college. (Class of 2026) <br>
+  I'm trying various projects by myself. <br>
+  I want to work on a project together! <br>
+</div>
 
 <!-- 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/백준닉네임)
