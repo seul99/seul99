@@ -1,9 +1,9 @@
 ## print("`Hello World 👋`")
 <div align = "center">
-  Hi, I'm a novice web developer. <br>
-  I'm a junior at university and My major is HCI Science. (Class of 2026) <br>
-  I'm trying various projects by myself. <br>
-  I want to work on a project together! <br>
+  Hello, I'm a university student aspiring to be a web developer. <br>
+  I'm in my fourth year and I plan to graduate in 2026. <br>
+  I am trying various projects on my own and working towards becoming a full-stack developer. <br>
+  I would love to work on projects with all of you. Nice to meet you! <br>
 </div>
 
 <!-- 
@@ -16,13 +16,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-3776AB?style=flat-square&logo=Jsp&logoColor=white"><br>
-  
+  <img src="https://img.shields.io/badge/JSP-3776AB?style=flat-square&logo=Jsp&logoColor=white"><br>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-61DAFB?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Ubuntu&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"><br> 
+  
 </div>  
 
 ## Tool 
@@ -36,6 +34,8 @@
   
   
   <!--
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Ubuntu&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"><br> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/C++-61DAFB?style=flat-square&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
