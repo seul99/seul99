@@ -52,5 +52,8 @@
 
   
    -->
+## Extracurricular Activities
+[동덕여대_박슬기_여기톤 수료증.pdf](https://github.com/user-attachments/files/21929699/_._.pdf)
+
 
 
