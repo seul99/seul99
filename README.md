@@ -1,9 +1,12 @@
 ## print("`Hello World 👋`")
 <div align = "center">
-  Hi, I'm Seulgi, a 4th-year student studying web development.  <br>
-  I'm currently learning JavaScript and working on various projects. <br>
-  My goal is to become a full-stack developer using JavaScript in the future. <br>
-  Would you be interested in collaborating on projects together?
+ Hi, I'm Seulgi <br>
+I'm a 4th-year student passionate about web development.   <br>
+Currently, I'm learning JavaScript and building projects to strengthen my skills.   <br>
+My goal is to grow into a full-stack developer specializing in JavaScript.   <br>
+
+💡 I'm always open to collaboration and new opportunities—let's build something great together! <br>
+
 </div>
 
 <!-- 
