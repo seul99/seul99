@@ -71,7 +71,7 @@ My goal is to grow into a full-stack developer specializing in JavaScript.   <br
 
 ### 🚀 기타 프로젝트
 - [루아 게임 만들기](https://github.com/seul99/Escape_Game)
-- [웨코드 보안](https://github.com/seul99/FairLife)
+- [웹코드 보안](https://github.com/seul99/FairLife)
  <br>  
 
 
