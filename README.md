@@ -56,7 +56,22 @@ My goal is to grow into a full-stack developer specializing in JavaScript.   <br
   
    -->
 ## Extracurricular Activities
-[동덕여대_박슬기_여기톤 수료증.pdf](https://github.com/user-attachments/files/21929699/_._.pdf)
+### 🎨 UXITER (학회 활동)
+- [YouR Nail](https://github.com/seul99/UXITER)
+ <br>  
 
+### 🦁 멋쟁이사자처럼
+- [자기소개 홈페이지](https://github.com/seul99/self-introduction_web)
+- 해커톤 참여
+  - [여기톤](https://github.com/seul99/2025-herethon-4)
+  - [토이프로젝트](https://github.com/seul99/Bera_ToyProject)
+  - [중앙해커톤](https://github.com/seul99/Jariitsom/tree/main)
+  - 간지톤 (참여 예정)
+<br>
+
+### 🚀 기타 프로젝트
+- [루아 게임 만들기](https://github.com/seul99/Escape_Game)
+- [웨코드 보안](https://github.com/seul99/FairLife)
+ <br>  
 
 
