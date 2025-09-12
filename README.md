@@ -56,11 +56,11 @@ My goal is to grow into a full-stack developer specializing in JavaScript.   <br
   
    -->
 ## Extracurricular Activities
-### 🎨 UXITER (학회 활동)
+### 🎨 UXITER (학회 활동) - 기획
 - [YouR Nail](https://github.com/seul99/UXITER)
  <br>  
 
-### 🦁 멋쟁이사자처럼
+### 🦁 멋쟁이사자처럼 - 프론트엔드
 - [자기소개 홈페이지](https://github.com/seul99/self-introduction_web)
 - 해커톤 참여
   - [여기톤](https://github.com/seul99/2025-herethon-4)
