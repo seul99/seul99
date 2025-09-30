@@ -66,12 +66,14 @@ My goal is to grow into a full-stack developer specializing in JavaScript.   <br
   - [여기톤](https://github.com/seul99/2025-herethon-4)
   - [토이프로젝트](https://github.com/seul99/Bera_ToyProject)
   - [중앙해커톤](https://github.com/seul99/Jariitsom/tree/main)
+  - [학교축제(대동제) 사이트 개발](https://github.com/seul99/2025ARETEUM-FrontEnd)
   - 간지톤 (참여 예정)
 <br>
 
 ### 🚀 기타 프로젝트
 - [루아 게임 만들기](https://github.com/seul99/Escape_Game)
 - [웹코드 보안](https://github.com/seul99/FairLife)
+- [생일카페 초대장](https://github.com/seul99/Invitation_Web)
  <br>  
 
 
