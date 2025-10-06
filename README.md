@@ -123,8 +123,8 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
 <br>
 
 ## 📫 Contact
-📧 Email: seul99.dev@gmail.com  
-💻 Portfolio: [seulgi-portfolio.vercel.app](https://seulgi-portfolio.vercel.app)  
+📧 Email: 20221881@dongduk.ac.kr
+<!-- 💻 Portfolio: [seulgi-portfolio.vercel.app](https://seulgi-portfolio.vercel.app)   -->
 🌐 GitHub: [@seul99](https://github.com/seul99)
 
 
