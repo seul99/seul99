@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Seulgi!
-<div align = "center">
+
 I'm a **web developer** who loves solving real-world problems through code.    <br>
 I enjoy diving deep into both **frontend and backend** to understand how the whole system works.   <br>
 Currently, I'm exploring **Spring Boot, AWS, and React** to build scalable, user-centered applications.   <br>
 I believe growth comes from curiosity, persistence, and collaboration 🌱   <br>
-</div>
+
 
 <!-- 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/백준닉네임)
