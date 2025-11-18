@@ -89,7 +89,7 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
 - 💡 **Here톤 / 토이프로젝트 / 간지톤(예정)**  
   - [Here톤](https://github.com/seul99/2025-herethon-4)  
   - [토이프로젝트](https://github.com/seul99/Bera_ToyProject)  
-  - 간지톤 (예정)  
+  - [간지톤](https://github.com/seul99/Team2_FE)  
   여러 해커톤에서 기획자·디자이너와 협업하며 UI 프로토타입을 코드로 구현했습니다.  
   반복적인 해커톤 참여를 통해 **기획→개발→배포의 전 과정**을 익혔습니다.
 
