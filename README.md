@@ -73,7 +73,7 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
 > 다양한 웹 프로젝트를 통해 실제 서비스 환경에서의 협업과 배포 과정을 경험했습니다.  
 > React 기반의 UI 컴포넌트 구조화, WebSocket을 활용한 실시간 통신, REST API 연동 등을 담당했습니다.  
 
-- 🧑‍💻 **자기소개 웹페이지** — [Repository](https://github.com/seul99/self-introduction_web)  
+- 🧑‍💻 **자기소개 웹페이지** — [Introduction](https://github.com/seul99/self-introduction_web)  
  html, css, js 를 활용하여 개인 웹페이지를 직접 디자인 및 개발하였습니다.
 
 - 🏫 **학교 축제(대동제) 웹사이트** — [ARETEUM Festival Web](https://github.com/seul99/2025ARETEUM-FrontEnd)  
@@ -82,11 +82,11 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
   프론트엔드·백엔드 간 데이터 동기화 문제를 해결하며 협업 경험을 쌓았습니다.  
   > “실제 사용자가 있는 서비스”를 처음 경험한 프로젝트입니다.
 
-- 🧩 **중앙 해커톤 (Jariitsom)** — [Repository](https://github.com/seul99/Jariitsom/tree/main)  
+- 🧩 **중앙 해커톤 (Jariitsom)** — [Jariitsom](https://github.com/seul99/Jariitsom/tree/main)  
   Django + React 기반 팀 프로젝트로, 사용자 인증 및 스토어 기능 구현을 담당했습니다.  
   백엔드 API 연동과 데이터 흐름을 설계하며 **프론트·백엔드 구조 이해**를 확장했습니다.
 
-- 💡 **Here톤 / 토이프로젝트 / 간지톤(예정)**  
+- 💡 **Here톤 / 토이프로젝트 / 간지톤**  
   - [Here톤](https://github.com/seul99/2025-herethon-4)  
   - [토이프로젝트](https://github.com/seul99/Bera_ToyProject)  
   - [간지톤](https://github.com/seul99/Team2_FE)  
