@@ -86,10 +86,13 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
   Django + React 기반 팀 프로젝트로, 사용자 인증 및 스토어 기능 구현을 담당했습니다.  
   백엔드 API 연동과 데이터 흐름을 설계하며 **프론트·백엔드 구조 이해**를 확장했습니다.
 
-- 💡 **Here톤 / 토이프로젝트 / 간지톤**  
+- 🐕 **간지톤 (ReBorn)**  - [간지톤 - 최우수상 수상](https://github.com/seul99/Team2_FE)
+    Spring Boot + React 기반 프로젝트로, 프론트엔드 전체 UI/로직 구현을 담당했습니다.
+    메인·검색·필터·상세·찜 페이지 개발과 함께 카테고리/정렬/무한스크롤/즐겨찾기 기능을 구축하며 팀 내 FE 구조 설계와 API 연동을 주도했습니다.
+
+- 💡 **Here톤 / 토이프로젝트**
   - [Here톤](https://github.com/seul99/2025-herethon-4)  
   - [토이프로젝트](https://github.com/seul99/Bera_ToyProject)  
-  - [간지톤 - 최우수상 수상](https://github.com/seul99/Team2_FE)  
   여러 해커톤에서 기획자·디자이너와 협업하며 UI 프로토타입을 코드로 구현했습니다.  
   반복적인 해커톤 참여를 통해 **기획→개발→배포의 전 과정**을 익혔습니다.
 
