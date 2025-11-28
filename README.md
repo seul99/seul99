@@ -82,14 +82,14 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
   프론트엔드·백엔드 간 데이터 동기화 문제를 해결하며 협업 경험을 쌓았습니다.  
   > “실제 사용자가 있는 서비스”를 처음 경험한 프로젝트입니다.
 
-- 🧩 **중앙 해커톤 (Jariitsom)** — [Jariitsom](https://github.com/seul99/Jariitsom/tree/main)  
+- 🧩 **중앙 해커톤 (Jariitsom)** — [Jariitsom - 평가 : 상위 5%](https://github.com/seul99/Jariitsom/tree/main)  
   Django + React 기반 팀 프로젝트로, 사용자 인증 및 스토어 기능 구현을 담당했습니다.  
   백엔드 API 연동과 데이터 흐름을 설계하며 **프론트·백엔드 구조 이해**를 확장했습니다.
 
 - 💡 **Here톤 / 토이프로젝트 / 간지톤**  
   - [Here톤](https://github.com/seul99/2025-herethon-4)  
   - [토이프로젝트](https://github.com/seul99/Bera_ToyProject)  
-  - [간지톤](https://github.com/seul99/Team2_FE)  
+  - [간지톤 - 최우수상 수상](https://github.com/seul99/Team2_FE)  
   여러 해커톤에서 기획자·디자이너와 협업하며 UI 프로토타입을 코드로 구현했습니다.  
   반복적인 해커톤 참여를 통해 **기획→개발→배포의 전 과정**을 익혔습니다.
 
