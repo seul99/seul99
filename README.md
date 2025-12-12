@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Seulgi!
 
-I'm a **web developer** who loves solving real-world problems through code.    <br>
-I enjoy diving deep into both **frontend and backend** to understand how the whole system works.   <br>
-Currently, I'm exploring **Spring Boot, AWS, and React** to build scalable, user-centered applications.   <br>
-I believe growth comes from curiosity, persistence, and collaboration 🌱   <br>
+I'm a **backend-focused web developer** currently studying **Spring Boot** through an intensive **DevCourse program**. <br>
+I enjoy understanding the full flow of services — from frontend UI to backend logic and infrastructure. <br>
+These days, I'm especially interested in **scalable backend systems, cloud infrastructure, and developer productivity**. <br>
+I believe growth comes from  curiosity, persistence, and collaboration 🌱   <br>
 
 
 <!-- 
@@ -20,25 +20,30 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 </p>
 
 ### ⚙️ Backend  
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-3776AB?style=flat-square&logoColor=white">
 </p>
 
 ### ☁️ Infra & Tools  
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-FFB71B?style=flat-square&logo=AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FFB71B?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </p>
 
 ### 🧩 Languages I've Explored  
@@ -51,7 +56,6 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
   <!--
 추가예정
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"><br> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
   <img src="https://img.shields.io/badge/C++-61DAFB?style=flat-square&logo=C++&logoColor=white">  
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">  
    -->
@@ -107,10 +111,10 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
   웹 보안의 원리를 직접 코드로 실습하며 데이터 보안의 중요성을 배웠습니다.
 
 - ✉️ **Invitation_Web – 인터랙티브 초대장** — [Repository](https://github.com/seul99/Invitation_Web)  
-  React + styled-components로 제작한 인터랙티브 초대 웹앱입니다.  
+  **React + styled-components**로 제작한 인터랙티브 초대 웹앱입니다.  
   애니메이션, 반응형 UI, OpenGraph 이미지 설정 등 **프론트엔드 완성도**를 높이는 경험을 했습니다.
 
-- 🎮 **Escape_Game (Lua)** — [Repository](https://github.com/seul99/Escape_Game)  
+- 🎮 **Escape_Game (Lua)** — [Repository](https://github.com/seul99/Escape_Game) 
   Lua 언어로 제작한 간단한 탈출 게임 프로젝트입니다.  
   게임 루프와 충돌 판정 구현을 통해 **논리적 사고력과 코드 구조화 능력**을 향상시켰습니다.
 
@@ -119,10 +123,11 @@ I believe growth comes from curiosity, persistence, and collaboration 🌱   <br
 
 
 ## 🌱 Learning Journey
-- Studying **Spring Boot & AWS** through ACC Club to deepen backend & infra knowledge.  
-- Preparing for **WoowaTechCourse Backend Track**, focusing on clean code & TDD mindset.  
-- Reviewing **Data Structures & Algorithms** using Java and Baekjoon problems.  
-- Continuous study of **English & Japanese** to collaborate globally.
+- Currently studying **Spring Boot & Backend fundamentals** through a DevCourse program  
+- Learning **Docker & AWS** to understand deployment and cloud infrastructure  
+- Exploring **Go** for backend services and system-level understanding  
+- Using **ChatGPT & AI tools** to improve learning efficiency and problem-solving  
+- Continuously reviewing **Data Structures & Algorithms** with Java  
 
 <br>
 
