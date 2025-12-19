@@ -77,6 +77,9 @@ I believe growth comes from  curiosity, persistence, and collaboration 🌱   <b
 > 다양한 웹 프로젝트를 통해 실제 서비스 환경에서의 협업과 배포 과정을 경험했습니다.  
 > React 기반의 UI 컴포넌트 구조화, WebSocket을 활용한 실시간 통신, REST API 연동 등을 담당했습니다.  
 
+<br>
+
+
 - 🧑‍💻 **자기소개 웹페이지** — [Introduction](https://github.com/seul99/self-introduction_web)  
  html, css, js 를 활용하여 개인 웹페이지를 직접 디자인 및 개발하였습니다.
 
@@ -103,6 +106,27 @@ I believe growth comes from  curiosity, persistence, and collaboration 🌱   <b
 
 <br>
 
+
+### 👾 데브코스 : 클라우드 기반 백엔드 엔지니어링 — BackEnd Developer
+> 클라우드 환경에서의 백엔드 서비스 개발을 목표로,
+문제 정의 → 설계 → 구현 → 배포 전 과정을 경험한 집중 부트캠프입니다.
+Spring Boot 기반 REST API 개발, AWS 인프라 구성, SQL을 활용한 데이터 설계,
+Kotlin 마이그레이션과 CI/CD 파이프라인 구축까지 폭넓게 학습했습니다.
+
+<br>
+
+
+- 🧑‍💻 **1차 프로젝트** — [주문 관리 시스템](https://github.com/seul99/NBE8-10-1-Team03)  
+  Spring Boot 기반으로 주문/상품/유저 도메인을 설계하고 주문 관리 API를 구현했습니다.
+배송 기준 시간에 따른 주문 병합 로직, 상태 변경 배치 처리,
+완료 주문 자동 정리 스케줄러 등 실무형 비즈니스 로직을 담당했습니다.
+JPA를 활용한 연관관계 매핑과 예외 처리 구조를 개선하며
+팀 코드 리뷰를 통해 코드 품질과 설계 역량을 함께 끌어올렸습니다.
+
+  > “요구사항을 코드로 구조화하는 백엔드 개발의 재미”를 제대로 느낀 프로젝트입니다.
+
+
+<br>
 
 ### 🚀 개인 프로젝트 & 학습형 실습  
 
