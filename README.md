@@ -156,7 +156,7 @@ JPA를 활용한 연관관계 매핑과 예외 처리 구조를 개선하며
 <br>
 
 ## 📫 Contact
-📧 Email: 20221881@dongduk.ac.kr
+📧 Email: piao516@naver.com
 <!-- 💻 Portfolio: [seulgi-portfolio.vercel.app](https://seulgi-portfolio.vercel.app)   -->
 🌐 GitHub: [@seul99](https://github.com/seul99)
 
