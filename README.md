@@ -93,7 +93,7 @@ I believe growth comes from  curiosity, persistence, and collaboration 🌱   <b
   Django + React 기반 팀 프로젝트로, 사용자 인증 및 스토어 기능 구현을 담당했습니다.  
   백엔드 API 연동과 데이터 흐름을 설계하며 **프론트·백엔드 구조 이해**를 확장했습니다.
 
-- 🐕 **간지톤 (ReBorn)**  - [간지톤 - 최우수상 수상](https://github.com/seul99/Team2_FE)
+- 🐕 **간지톤 (ReBorn)**  - [간지톤 - 최우수상 수상](https://github.com/seul99/Team2_FE)  <br>
     Spring Boot + React 기반 프로젝트로, 프론트엔드 전체 UI/로직 구현을 담당했습니다.
     메인·검색·필터·상세·찜 페이지 개발과 함께 카테고리/정렬/무한스크롤/즐겨찾기 기능을 구축하며 팀 내 FE 구조 설계와 API 연동을 주도했습니다.
 
@@ -125,6 +125,12 @@ JPA를 활용한 연관관계 매핑과 예외 처리 구조를 개선하며
 
   > “요구사항을 코드로 구조화하는 백엔드 개발의 재미”를 제대로 느낀 프로젝트입니다.
 
+<br>
+
+- 👾 **2차 프로젝트** - [게임 경재 살리기 - 백앤드 ](https://github.com/seul99/NBE8-10-2-Team02.git) /   [프론트](https://github.com/seul99/NBE8-10-2-Team02-Front.git)  <br>
+큐레이션 서비스에서 게임 검색 및 외부 데이터 연동 도메인을 전담했습니다. IGDB API를 통한 데이터 수집과 QueryDSL을 활용한 고도화된 동적 검색 시스템을 구축했습니다.
+
+  > 처음으로 외부 API를 연동하고, 방대한 외부 데이터를 서비스 도메인에 맞춰 최적화하고 구조화하며, 데이터 중심 사고를 가진 백엔드 개발자로 성장한 계기가 되었습니다.
 
 <br>
 
