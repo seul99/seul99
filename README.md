@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Seulgi!
 
-I'm a **backend-focused web developer** currently studying **Spring Boot** through an intensive **DevCourse program**. <br>
-I enjoy understanding the full flow of services — from frontend UI to backend logic and infrastructure. <br>
-These days, I'm especially interested in **scalable backend systems, cloud infrastructure, and developer productivity**. <br>
-I believe growth comes from  curiosity, persistence, and collaboration 🌱   <br>
+I'm a **full-stack web developer** currently studying Spring Boot through an intensive DevCourse program.
+I enjoy building end-to-end services — from intuitive frontend interfaces to robust backend systems and infrastructure.
+These days, I'm especially interested in scalable web architectures, cloud infrastructure, and developer productivity.
+I believe growth comes from curiosity, persistence, and collaboration 🌱
 
 
 <!-- 
