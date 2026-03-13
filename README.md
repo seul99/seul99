@@ -43,6 +43,7 @@ I believe growth comes from  curiosity, persistence, and collaboration 🌱   <b
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-%23E92747.svg?style=flat-square&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 </p>
 
 ### ☁️ Infra & Tools  
