@@ -81,7 +81,7 @@ I believe growth comes from  curiosity, persistence, and collaboration 🌱   <b
 ### 🎨 UXITER (학회 활동) — 기획 & UX Research  
 > **YouR Nail** — [Repository](https://github.com/seul99/UXITER)  
 > 사용자 맞춤형 네일 추천 앱 기획 프로젝트로, UX 리서치와 와이어프레임 제작을 담당했습니다.  
-> 인터뷰·설문을 통한 사용자 여정 분석과 시나리오 기반 UI 흐름을 설계하며 **사용자 중심 사고**를 체득했습니다.
+> 인터뷰·설문을 통한 사용자 여정 분석과 시나리오 기반 UI 흐름을 설계하며 **사용자 중심 사고**를 학습하였습니다.
 
 <br>
 
